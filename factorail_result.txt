@@ -1,0 +1,4 @@
+Result of factorial for 5 is : 120Result of factorial for 5 is : 120Result of factorial for 7 is : 5040Result of factorial for 7 is : 5040
+Result of factorial for 7 is : 5040
+Result of factorial for 7 is : 5040
+Result of factorial for 7 is : 5040
