@@ -16,4 +16,6 @@ print("prints the dimension of d2",d2.ndim)
 #we have to give double slash to read the file from esires location\\"
 data1=read_csv("C:\\Users\\ahaly\\OneDrive\\Desktop\\marks.csv")
 df1=DataFrame(data1)
+df2=df1
 print(df1)
+print(df2)
